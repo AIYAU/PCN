@@ -1,0 +1,18 @@
+{
+    "class_names": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+
+    ],
+    "class_roots": [
+        "./data/IISD/images/Polar Bear/01",
+        "./data/IISD/images/Polar Bear/02",
+        "./data/IISD/images/Polar Bear/03",
+        "./data/IISD/images/Polar Bear/04",
+        "./data/IISD/images/Polar Bear/05"
+    ]
+}
+

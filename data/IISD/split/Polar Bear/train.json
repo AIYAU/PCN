@@ -1,0 +1,34 @@
+{
+    "class_names": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+    ],
+    "class_roots": [
+        "./data/IISD/images/Polar Bear/06",
+        "./data/IISD/images/Polar Bear/07",
+        "./data/IISD/images/Polar Bear/08",
+        "./data/IISD/images/Polar Bear/09",
+        "./data/IISD/images/Polar Bear/10",
+        "./data/IISD/images/Polar Bear/11",
+        "./data/IISD/images/Polar Bear/12",
+        "./data/IISD/images/Polar Bear/13",
+        "./data/IISD/images/Polar Bear/14",
+        "./data/IISD/images/Polar Bear/15",
+        "./data/IISD/images/Polar Bear/16",
+        "./data/IISD/images/Polar Bear/17",
+        "./data/IISD/images/Polar Bear/18",
+        "./data/IISD/images/Polar Bear/19"
+    ]
+}

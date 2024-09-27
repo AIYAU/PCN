@@ -1,0 +1,16 @@
+{
+    "class_names": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+    ],
+    "class_roots": [
+       "./data/IISD/images/Tiger/01",
+        "./data/IISD/images/Tiger/02",
+        "./data/IISD/images/Tiger/03",
+        "./data/IISD/images/Tiger/04",
+        "./data/IISD/images/Tiger/05"
+    ]
+}

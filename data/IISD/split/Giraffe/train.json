@@ -1,0 +1,18 @@
+{
+    "class_names": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+
+    ],
+    "class_roots": [
+        "./data/IISD/images/Giraffe/01",
+        "./data/IISD/images/Giraffe/02",
+        "./data/IISD/images/Giraffe/03",
+        "./data/IISD/images/Giraffe/04",
+        "./data/IISD/images/Giraffe/05"
+
+    ]
+}
