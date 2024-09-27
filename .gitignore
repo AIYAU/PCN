@@ -9,7 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 .ipynb_checkpoints/
-data/CUB/images/
+
 build/
 develop-eggs/
 dist/
@@ -135,7 +135,7 @@ dmypy.json
 
 # data
 data/features
-data/**/images
+
 data/omniglot-py
 *.tgz
 *.tar
